@@ -1,8 +1,5 @@
-client/node_modules
-server/node_modules
-client/dist/
-server/dist/
-client/.env
-client/.env.local
-server/.env
-client/.next/
+dist/
+.env
+.env.local
+.next/
+node_modules
